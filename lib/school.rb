@@ -16,7 +16,7 @@ attr_accessor :roster
     end
     def grade(student_grade)
         
-              
+        end      
   end
 end
 
