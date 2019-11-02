@@ -14,8 +14,9 @@ attr_accessor :roster
       roster[grade]=[]
       roster[grade] << student
     end
-    def grade(student)
-      
+    def grade(student_grade)
+        
+              
   end
 end
 
